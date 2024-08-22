@@ -8,6 +8,6 @@ This project is a content-based movie recommender system built using Python. The
 - **TF-IDF Vectorization:** Converts movie overviews into numerical vectors.
 - **Cosine Similarity:** Measures the similarity between movies.
 
-Usage
+##Usage
 To use the recommender system, run the provided Python script:
 python movie recommender system.py
