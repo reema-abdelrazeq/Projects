@@ -5,3 +5,4 @@ The Driver Drowsiness Dataset (DDD)
     The obtained dataset (DDD) has been used for training and testing CNN architecture for driver drowsiness detection in the “Detection and Prediction of Driver Drowsiness for the Prevention of Road Accidents Using Deep Neural Networks Techniques” paper.
 (Please cite the following research paper)
 https://doi.org/10.1007/978-981-33-6893-4_6
+i used this data from kaggle here :https://www.kaggle.com/datasets/ismailnasri20/driver-drowsiness-dataset-ddd
