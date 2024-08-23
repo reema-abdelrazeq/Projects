@@ -1,0 +1,14 @@
+Overview
+This project involves customer segmentation using clustering techniques to identify distinct groups within a dataset of mall customers. The goal is to better understand customer behavior and tailor marketing strategies accordingly.
+
+Dataset
+The dataset used in this project includes the following columns:
+
+ID: Unique identifier for each customer
+Sex: Gender of the customer (0 for male, 1 for female)
+Marital status: Marital status (0 for single, 1 for married)
+Age: Age of the customer
+Education: Level of education (numerical code)
+Income: Annual income in currency units
+Occupation: Occupation code
+Settlement size: Size of the settlement (0 for small, 1 for medium, 2 for large)
