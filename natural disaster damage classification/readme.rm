@@ -1,0 +1,38 @@
+Project Overview
+The goal of this project is to classify images of buildings or areas that have been affected by natural disasters into various damage categories. This can assist emergency response teams in quickly identifying the most critical areas that need immediate attention.
+
+Dataset
+The dataset consists of labeled images of buildings and regions before and after various natural disasters (e.g., earthquakes, hurricanes, wildfire).
+
+data sources:
+WildFire:
+
+Data Source: Forest Fires - Open Government Portal. Canada.
+
+Original License: Creative Commons 4.0 Attribution (CC-BY) license Quebec.
+
+Number of Images: 5.089
+
+Hurricane:
+
+Data Source: Detecting Damaged Buildings Post-Hurricane
+
+Citation: http://dx.doi.org/10.21227/sdad-1056
+
+Original Paper: https://arxiv.org/abs/1807.01688
+
+Number of Images: 5.111
+
+Landslide:
+Original Dataset: Created by IARAI for landslide4sense 2022. The original dataset contained many images without annotations and was difficult to read.
+
+Current Version: Simplified and cleaned to remove zero annotation masks.
+
+Number of Images: 1,980
+
+Earthquake:
+
+Data Source: Satellite images and UAV images from the HGM KURE application and screenshots from Google Maps. Dataset Composition: 1237 images of damaged buildings and 1498 images of undamaged buildings, totaling 2735 images. Citation: Tasci, B., Acharya, M. R., Baygin, M., Dogan, S., Tuncer, T., & Belhaouari, S. B. (2023). Inception and concatenation residual block-based deep learning network for damaged building detection using remote sensing images. International Journal of Applied Earth Observation and Geoinformation, 123, 103483. Number of Images: 1,23
+
+
+data on kaggle: https://www.kaggle.com/datasets/reemaabbelrazeq/natural-disasters-sat-images
