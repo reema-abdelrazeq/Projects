@@ -1,0 +1,12 @@
+# Overview
+This project is a driver drowsiness detection system using Convolutional Neural Networks (CNNs). The goal is to identify drowsy drivers from images captured from in-car cameras to enhance road safety.
+
+# Dataset
+The dataset used is the Driver Drowsiness Dataset (DDD), which contains:
+
+RGB images
+2 classes: Drowsy and Non Drowsy
+Image size: 227 x 227 pixels
+Total images: 41,790
+File size: 2.32 GB
+For more details on the dataset, refer to the research paper: Detection and Prediction of Driver Drowsiness for the Prevention of Road Accidents Using Deep Neural Networks Techniques.
