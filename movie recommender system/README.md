@@ -9,3 +9,6 @@ Hybrid Recommender: Combines content-based and collaborative filtering to enhanc
 ## Datasets
 Movies Metadata: Contains movie titles, genres, and overviews.
 Ratings Data the small version : User ratings for various movies.
+
+## Acknowledgements
+source of the dataset:https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
