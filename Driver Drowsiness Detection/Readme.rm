@@ -1,7 +1,7 @@
-# Overview
+Overview
 This project is a driver drowsiness detection system using Convolutional Neural Networks (CNNs). The goal is to identify drowsy drivers from images captured from in-car cameras to enhance road safety.
 
-# Dataset
+ Dataset
 The dataset used is the Driver Drowsiness Dataset (DDD), which contains:
 
 RGB images
