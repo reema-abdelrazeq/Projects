@@ -2,6 +2,7 @@ Overview
 This project involves customer segmentation using clustering techniques to identify distinct groups within a dataset of mall customers. The goal is to better understand customer behavior and tailor marketing strategies accordingly.
 
 Dataset
+can be found on kaggle: https://www.kaggle.com/datasets/dev0914sharma/customer-clustering
 The dataset used in this project includes the following columns:
 
 ID: Unique identifier for each customer
