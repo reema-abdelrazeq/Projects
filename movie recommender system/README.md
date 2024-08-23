@@ -1,14 +1,11 @@
-# Movie Recommender System
-
-This project is a content-based movie recommender system built using Python. The system recommends movies based on the similarity of movie descriptions and genres.
+## Project Overview
+This project is a movie recommender system that combines content-based filtering with collaborative filtering to provide personalized movie recommendations. The system leverages both the movie metadata (such as title, genre, and overview) and user ratings to generate recommendations.
 
 ## Features
+Content-Based Filtering: Recommends movies similar to a given movie based on title, genre, and overview.
+Collaborative Filtering: Uses user ratings to predict movie preferences.
+Hybrid Recommender: Combines content-based and collaborative filtering to enhance recommendation accuracy.
 
-- **Content-Based Filtering:** Uses movie descriptions and genres to compute similarity.
-- **TF-IDF Vectorization:** Converts movie overviews into numerical vectors.
-- **Cosine Similarity:** Measures the similarity between movies.
-
-## Usage
-
-To use the recommender system, run the provided Python script:
-python movie recommender system.py
+## Datasets
+Movies Metadata: Contains movie titles, genres, and overviews.
+Ratings Data the small version : User ratings for various movies.
